@@ -65,7 +65,7 @@ stop resolving.
 ## Tests
 
 ```bash
-python -m pytest -q     # 34 passed
+python -m pytest -q     # 47 passed
 ```
 
 ## Limitations — read this
